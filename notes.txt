@@ -1,0 +1,4 @@
+Git Practice Notes
+Git tracks changes to files.
+Commits save snapshots of changes.
+GitHub stores my remote repository.
